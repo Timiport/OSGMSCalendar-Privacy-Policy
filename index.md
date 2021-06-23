@@ -40,10 +40,10 @@ For the purposes of this Privacy Policy:
 ### Collecting and Using Your Personal Data
 ### Types of Data Collected
 ### Personal Data
-While using Our Service, We may ask You to provide Us with information related to caneldar events
+While using Our Service, We may ask You to provide Us with information related to calendar events
 
 Information from Third-Party Social Media Services
-The Company allows You to create an account and log in to use the Service through the following Third-party Social Media Services:
+The Company allows You to log in to use the Service through the following Third-party Social Media Services:
 
 * Google
 * Microsoft
@@ -66,12 +66,6 @@ We will not retain your personal data
 ### Transfer of Your Personal Data
 
 We will not transfer your personal data to any party
-
-
-### Children's Privacy
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
 ### Changes to this Privacy Policy
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
