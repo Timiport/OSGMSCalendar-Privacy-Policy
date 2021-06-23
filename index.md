@@ -27,7 +27,7 @@ For the purposes of this Privacy Policy:
 
 * **Personal Data** is any information that relates to an identified or identifiable individual.
 
-* **Service*8 refers to the Application.
+* **Service** refers to the Application.
 
 * **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
 
@@ -49,8 +49,6 @@ The Company allows You to log in to use the Service through the following Third-
 * Microsoft
 
 If You decide to register through or otherwise grant us access to a Third-Party Social Media Service, We may collect Personal data that is already associated with Your Third-Party Social Media Service's account, which is only limited to calendar services associated with that account.
-
-You may also have the option of sharing additional information with the Company through Your Third-Party Social Media Service's account. If You choose to provide such information and Personal Data, during registration or otherwise, You are giving the Company permission to use, share, and store it in a manner consistent with this Privacy Policy.
 
 ### Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
